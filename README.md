@@ -1,4 +1,4 @@
-# 🛍️ Product Catalog Viewer – Front-End Intern Assignment
+# 🛍️ Product Catalog Viewer
 
 A fully responsive e-commerce product catalog built using **Next.js**, **Tailwind CSS**, and **ShadCN UI**, integrated with the [FakeStoreAPI.in](https://fakestoreapi.in). The project includes infinite scrolling, filtering by category, cart functionality with local storage, and dynamic product detail pages.
 
